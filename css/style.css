@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: league spartan;
+  border: none;
+  text-decoration: none;
+}
+
+#watch {
+  background-color: #f8f8f8;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.watch {
+  display: flex;
+  justify-content: center;
+}
+
+.watch img {
+  width: 250px;
+  height: 400px;
+}
+
+.watch-text {
+  padding-block: 95px;
+}
+
+.watch-text h1 {
+  font-weight: 400;
+  font-size: 100px;
+}
+
+.watch-text p {
+  font-weight: 300;
+  line-height: 50px;
+}
+
+.watch-button {
+  display: flex;
+  margin: 0 auto;
+}
+
+button {
+  width: 100px;
+  height: 47px;
+  background: black;
+  color: white;
+}
+
+span button {
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  width: 50px;
+  height: 47px;
+}
+
+#watch-2 {
+  padding: 50px 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.watch-text-2 {
+  display: flex;
+  flex-flow: column;
+  gap: 70px;
+  align-items: center;
+}
+
+.watch-2 img {
+  width: 470px;
+  height: 410px;
+  top: 1240px;
+  left: 582px;
+  padding: 100px 0;
+  background: #f8f8f8;
+}
+
+.watch-text-2 h1 {
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.watch-text-2 p {
+  text-align: center;
+  line-height: 40px;
+  padding-bottom: 100px;
+}
+
+#watch-3 {
+  padding: 50px 0;
+}
+
+.watch-text-3 {
+  display: flex;
+  flex-flow: column;
+  gap: 70px;
+  align-items: center;
+}
+
+.watch-3 img {
+  width: 470px;
+  height: 500px;
+  top: 2215px;
+  left: 470px;
+
+  background: #f8f8f8;
+}
+
+.watch-text-3 p {
+  text-align: center;
+  line-height: 40px;
+  padding-bottom: 50px;
+}
+
+#text {
+  padding: 50px 0;
+}
+
+.text {
+  text-align: center;
+  display: flex;
+  flex-flow: column;
+  gap: 30px;
+  line-height: 20px;
+}
+
+.text h3 {
+  font-weight: 400;
+  font-size: 25px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid black;
+  width: 20%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.text p {
+  text-align: center;
+  line-height: 30px;
+}
